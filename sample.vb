@@ -8,6 +8,7 @@ Module Module1
         r=a+b
         System.Console.WriteLine("Result: "&r)
         System.Console.ReadKey()
+        
     End Sub
 End Module
 
